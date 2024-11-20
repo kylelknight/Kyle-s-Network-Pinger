@@ -1,0 +1,4 @@
+Host,Status
+8.8.8.8,reachable
+1.1.1.1,reachable
+invalid.host,unreachable
